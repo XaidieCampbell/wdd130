@@ -33,15 +33,12 @@ main {
 
 aside {
     max-width: 400px;
-    height: auto;
-    float: center;
-    margin;
-    10px;
+    text-align: center;
+    margin: 10px;
     border: 1px solid black;
-    padding: 10px #333;
+    padding: 10px;
     background-color: #eee;
     color: #333;
-    text-align: center;
 }
 
 aside img {
