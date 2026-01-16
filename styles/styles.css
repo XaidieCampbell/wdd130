@@ -32,7 +32,7 @@ main {
     height: auto;
     border: 1px solid black;
     padding: 10px;
-    box-shadow: 20px #333;
+    box-shadow: 0 0 30px #333;
 }
 
 aside {
@@ -55,7 +55,7 @@ main img {
     height: auto;
     border: 1px solid black;
     padding: 10px;
-    box-shadow: 20px #333;
+    box-shadow: 0 0 30px #333;
 }
 
 footer {
